@@ -2,7 +2,7 @@
 
 <img align="right" alt="cat-pc" height="150" style="border-radius:50px;" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/manoellasouza">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=manoellasouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoellasouza&layout=compact&langs_count=7&theme=github_dark"/>
