@@ -1,7 +1,5 @@
 ### Olá, eu sou a Manoella! 💜   
 
-<img align="right" alt="cat-pc" height="150" style="border-radius:50px;" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-
 <div align="left">
   <a href="https://github.com/manoellasouza">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=manoellasouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
